@@ -1,0 +1,7 @@
+{
+    "parent": "xalixilax:block/template_leaves_0_no_tint_no_overlay",
+    "textures": {
+        "all": "regions_unexplored:block/mauve_leaves_flowering_3",
+        "bushy": "regions_unexplored:block/mauve_leaves_1"
+    }
+}

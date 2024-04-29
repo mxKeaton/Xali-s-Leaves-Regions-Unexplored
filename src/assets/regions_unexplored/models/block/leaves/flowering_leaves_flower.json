@@ -1,0 +1,9 @@
+{
+    "parent": "xalixilax:block/template_leaves_0_no_inv",
+    "textures": {
+        "all": "minecraft:block/oak_leaves",
+        "overlay": "regions_unexplored:block/flowering_leaves_flower",
+        "bushy": "minecraft:block/oak_leaves_0",
+	"bushy_overlay": "minecraft:block/oak_leaves_0"
+    }
+}
