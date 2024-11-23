@@ -1,7 +1,9 @@
 {
-    "parent": "xalixilax:block/template_leaves_0",
+    "parent": "xalixilax:block/template_leaves_top_0",
     "textures": {
-	"all": "regions_unexplored:block/palm_leaves_side",
-        "bushy": "regions_unexplored:block/palm_leaves_bush"
+	"side": "regions_unexplored:block/palm_leaves_side",
+    "top": "regions_unexplored:block/palm_leaves_top",
+    "bottom": "regions_unexplored:block/palm_leaves_top",
+    "bushy": "regions_unexplored:block/palm_leaves_bush"
     }
 }
